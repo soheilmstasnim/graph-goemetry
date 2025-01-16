@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WocbRqIn1956S6pjhT/DWp+f5rtWcqocOFYA7pwy2BZ1cDY9jqKF4Hz/bcYmw6UEnNdZLoVs9SEOSs7TNvcqKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\graph-goemetry\\Osm-Tools\\Osm-Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s_poorabedi\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\s_poorabedi\\.nuget\\packages\\nettopologysuite.features\\2.0.0\\nettopologysuite.features.2.0.0.nupkg.sha512",
+    "C:\\Users\\s_poorabedi\\.nuget\\packages\\nettopologysuite.io.geojson\\4.0.0\\nettopologysuite.io.geojson.4.0.0.nupkg.sha512",
+    "C:\\Users\\s_poorabedi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\s_poorabedi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
